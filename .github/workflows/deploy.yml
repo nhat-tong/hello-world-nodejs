@@ -1,4 +1,4 @@
-name: GitHub Deployment
+name: GitHub Deployment 2
 
 on:
   push:
